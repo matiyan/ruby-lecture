@@ -1,3 +1,5 @@
+松江高専はフードファイターを輩出している
+
 You have created a blank project.
 This is really a blank project! This is the only file.
 
